@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 10/8/25
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -104,7 +104,12 @@ cit.html
 </html>
 
 ## OUTPUT
+<img width="1920" height="1080" alt="Screenshot 2025-10-08 110608" src="https://github.com/user-attachments/assets/16c72ac7-02ed-4bf8-8205-09150f7318ca" />
 
+<img width="1920" height="1080" alt="Screenshot 2025-10-08 110650" src="https://github.com/user-attachments/assets/55d44200-f226-4d63-9036-8e185eee548d" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-08 110637" src="https://github.com/user-attachments/assets/c826afd7-81c0-40a7-a442-0ddcbc15cb68" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-08 110624" src="https://github.com/user-attachments/assets/75fca908-dcc3-4c32-8bcb-486ac83ce7f9" />
 
 
 
